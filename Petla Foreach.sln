@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petla Foreach", "Petla Foreach.csproj", "{EA9095A0-0690-437A-805D-FDB7C69CFB86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA9095A0-0690-437A-805D-FDB7C69CFB86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA9095A0-0690-437A-805D-FDB7C69CFB86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA9095A0-0690-437A-805D-FDB7C69CFB86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA9095A0-0690-437A-805D-FDB7C69CFB86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1A4499F-4E52-42A8-8802-A22FD3D23550}
+	EndGlobalSection
+EndGlobal
